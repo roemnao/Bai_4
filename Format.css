@@ -60,9 +60,12 @@ div{
 }
 p{
     margin: 0;
-    font-size: 26px;
-    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    font-family: 'Be Vietnam Pro', sans-serif;
     font-weight: bold;
+}
+.title p{
+    font-family: 'Lora', serif;
 }
 header .logo{
     width: 200px;
@@ -70,7 +73,7 @@ header .logo{
 }
 header .menu{
     width: 820px;
-    height: 32px;
+    height: 34px;
 }
 header .button{
     width: 120px;
